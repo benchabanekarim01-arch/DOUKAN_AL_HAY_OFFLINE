@@ -1,0 +1,10 @@
+{
+  "name": "DOUKAN AL HAY Offline",
+  "short_name": "DOUKAN AL HAY",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#123c69",
+  "dir": "rtl",
+  "lang": "ar"
+}
